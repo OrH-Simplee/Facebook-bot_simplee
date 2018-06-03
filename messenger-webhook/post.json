@@ -1,0 +1,12 @@
+{
+  "account_session": {
+      "payable": {
+        "account_number": "200000000001",
+        "provider": "st_mary"
+      },
+      "password": {
+                "date_of_birth": "01/01/70"
+      },
+      "term_accepted": "true"
+  }
+}
